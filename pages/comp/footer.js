@@ -1,9 +1,9 @@
-const footer = () => {
+const Footer = () => {
     return ( 
-        <div>
+        <footer>
             <span>Copiright 2023 </span>
-        </div>
+        </footer>
      );
 }
  
-export default footer;
+export default Footer;

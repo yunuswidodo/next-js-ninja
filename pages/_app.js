@@ -1,4 +1,6 @@
 // import '@/styles/globals.css'
+
+import '@/styles/global-edit.css'
 import Layout from "./comp/layout";
 
 export default function App({ Component, pageProps }) {
@@ -8,15 +10,3 @@ export default function App({ Component, pageProps }) {
   </Layout>
   )
 }
-
-
-// const App = ({ Component, pageProps }) => {
-//   return (  
-//    
-//       <Component {...pageProps}/>
-//    
-    
-//   );
-// }
- 
-// export default App;
